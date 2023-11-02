@@ -1,0 +1,19 @@
+{
+  "name": "@erosilva/test-package",
+  "version": "0.0.1",
+  "description": "A package to test NPM publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eroSilva/test-package.git"
+  },
+  "author": "eroSilva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eroSilva/test-package/issues"
+  },
+  "homepage": "https://github.com/eroSilva/test-package#readme"
+}
