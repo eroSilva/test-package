@@ -1,6 +1,6 @@
 {
   "name": "@erosilva/test-package",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A package to test NPM publish",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
